@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a Frontend Developer.
-
+<br/>
 Do you still need more info about me or my work?
 
 You could check my <a href="https://www.linkedin.com/in/valeriy-hnybidenko-036632279"></a> [linkedin profile](https://www.linkedin.com/in/valeriy-hnybidenko-036632279).
